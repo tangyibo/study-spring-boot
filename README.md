@@ -180,6 +180,8 @@ public class MyAppConfig implements WebMvcConfigurer {
 
 参考示例工程代码：[02-springmvc-web](02-springmvc-web)
 
+参考示例工程代码：[03-tomcat-springmvc](03-tomcat-springmvc)
+
 ## 五、基于spring-mvc及内嵌tomcat实现SpringBoot
 
 ### 1、整合tomcat与spring
